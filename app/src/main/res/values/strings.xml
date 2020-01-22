@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswordLayouts</string>
+    <string name="password_input_hint">Password</string>
+    <string name="converted_password_hint">Converted password will appear here</string>
+    <string name="caption_text">Enter password:</string>
+    <string name="clear_button_text">CLEAR</string>
+    <string name="translate_button_text">Convert</string>
+    <string name="check_show_password_text">Show converted</string>
+</resources>
